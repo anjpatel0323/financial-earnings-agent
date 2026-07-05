@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-07-05T20:24:17.042604",
+  "num_tests": 5,
+  "metrics": {
+    "faithfulness": 0.96,
+    "answer_relevancy": 0.7186,
+    "context_precision": 1.0,
+    "context_recall": 0.4
+  },
+  "overall": 0.7696,
+  "per_question": [
+    {
+      "question": "What were Apple's main revenue drivers in their latest 10-K?",
+      "answer": "Apple's main revenue drivers, as identified in their latest 10-K, include iPhone sales, which saw a moderately higher proportion in the Greater China region. Additionally, the company recognized substantial amounts of deferred revenue from previous periods, contributing to total net sales. The consistent revenue sources across reportable segments also indicate a stable performance.",
+      "contexts": 
